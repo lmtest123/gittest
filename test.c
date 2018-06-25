@@ -1,7 +1,7 @@
 /*
  * COPYRIGHT INFORMATION - DO NOT REMOVE
  *
- * Copyright (c) LinuxMagic Inc. 2017 All Rights Reserved
+ * Copyright (c) LinuxMagic Inc. 2017-2018 All Rights Reserved
  *
  * This file contains Original Code as created by LinuxMagic Inc.
  *
@@ -23,6 +23,7 @@
 
 int main(int argc, char *argv[])
 {
+    printf("Hello World\n");
 
     return 0;
 }
