@@ -23,7 +23,9 @@
 
 int main(int argc, char *argv[])
 {
-    printf("Hello World\n");
+    if (argc < 2) {
+        printf("Hello World\n");
+    }
 
     return 0;
 }
